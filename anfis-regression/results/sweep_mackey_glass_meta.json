@@ -1,0 +1,14 @@
+{
+  "shards": [
+    "sweep_part_dsig_meta.json",
+    "sweep_part_gaussian_meta.json",
+    "sweep_part_gbell_meta.json",
+    "sweep_part_trapezoidal_meta.json",
+    "sweep_part_triangular_meta.json"
+  ],
+  "n_configs": 90,
+  "n_significant_bh": 87,
+  "linear_rmse_mean": 0.09638494659073298,
+  "mlp_rmse_mean": 0.00495238949149969,
+  "total_minutes": 7.9
+}
